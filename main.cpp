@@ -1,2 +1,3 @@
 #include "Enemy.h"
-int MAINFUNCTION() {}
+int MAINFUNCTIONK() {}
+
