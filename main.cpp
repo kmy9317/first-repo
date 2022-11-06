@@ -1,3 +1,4 @@
 #include "Enemy.h"
-int MAINFUNCTIONK() {}
+int main() {}
 
+// the main function
